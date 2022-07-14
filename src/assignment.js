@@ -36,7 +36,7 @@ function countEvenNumbers(arrayOfNumbers) {
     }
   }
   console.log(array);
-    return arrayOfNumbers.length;
+    return array.length;
 }
 assignment.countEvenNumbers = countEvenNumbers;
 
